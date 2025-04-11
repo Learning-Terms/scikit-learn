@@ -145,4 +145,48 @@ git push origin feature-branch
 | 5 测试改进   | 改进单元测试逻辑             | 学会写断言 / 使用 pytest     |
 | 6 社区互动   | 回答 issue / 提问            | 展现参与度，积累信誉         |
 
-## 
+## 在线编程平台
+### 💻 通用在线编程平台（支持多语言）
+| 平台名称 | 支持语言 | 特点 |
+|----------|----------|------|
+| [Replit](https://replit.com) | Python、C++、Java、Node.js、HTML/CSS/JS 等 | 免费、有在线IDE、支持协作、也可部署项目 |
+| [Google Colab](https://colab.research.google.com) | Python | 免费GPU、适合数据科学和深度学习、可直接运行Jupyter Notebook |
+| [JupyterLite](https://jupyterlite.github.io/demo/lab/) | Python (Pyodide 内核) | 基于浏览器，无需注册，轻量级JupyterLab |
+| [OnlineGDB](https://www.onlinegdb.com) | C/C++、Python、Java、Assembly 等 | 支持调试功能和在线编译 |
+| [Programiz](https://www.programiz.com/python-programming/online-compiler/) | Python、C、C++ 等 | 界面友好，适合初学者 |
+
+
+### 🌐 专用平台推荐（根据需求）
+✅ Python / 数据分析 / 深度学习
+
+- **[Google Colab](https://colab.research.google.com)**（首选）  
+- **[Kaggle Kernels](https://www.kaggle.com/code)**（也支持Jupyter Notebook + 免费GPU）
+
+✅ C++ / 算法练习
+
+- **[OnlineGDB](https://www.onlinegdb.com)**（带调试器）  
+- **[Ideone](https://ideone.com)**（快速测试小段代码）  
+- **[Replit](https://replit.com)**（长代码项目管理）
+
+✅ Web开发（HTML/CSS/JavaScript）
+
+- [CodePen](https://codepen.io)  
+- [JSFiddle](https://jsfiddle.net)  
+- [StackBlitz](https://stackblitz.com)
+
+### 🧠 AI / ML 项目平台
+| 平台 | 优点 |
+|------|------|
+| [Google Colab](https://colab.research.google.com) | 免费+Pro版 GPU/TPU，可运行 PyTorch、TensorFlow |
+| [Kaggle](https://www.kaggle.com/code) | 可直接调用比赛数据、社区分享代码、带 Notebook 环境 |
+| [Hugging Face Spaces](https://huggingface.co/spaces) | 用于部署 AI 模型演示，支持 Gradio / Streamlit |
+
+### ✅ 推荐组合使用方式
+- **快速测试 / 学习代码语法**：Replit、OnlineGDB、JupyterLite  
+- **做数据分析/AI项目**：Google Colab、Kaggle  
+- **需要调试和协作开发**：Replit（支持多人实时协作）
+
+
+
+
+
