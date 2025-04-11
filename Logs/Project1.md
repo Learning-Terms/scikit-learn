@@ -103,6 +103,37 @@ Fix typo in class docstring.
 N/A
 ```
 
+## 📌 第7阶段：保持你的仓库同步（进阶）
+
+```bash
+# 切换到主分支
+git checkout main
+
+# 拉取原始项目的最新更新
+git pull upstream main
+
+# 更新你的远程仓库
+git push origin main
+```
+
+## 📎 常用命令速查表
+
+```bash
+# 克隆你的 Fork 仓库
+git clone https://github.com/你的用户名/项目名.git
+
+# 添加原始项目地址
+git remote add upstream https://github.com/原作者/项目名.git
+
+# 创建分支
+git checkout -b feature-branch
+
+# 提交修改
+git add .
+git commit -m "说明文字"
+git push origin feature-branch
+```
+
 ## 🧭 总结学习路径一览
 | 阶段         | 内容                         | 成果                         |
 |--------------|------------------------------|------------------------------|
